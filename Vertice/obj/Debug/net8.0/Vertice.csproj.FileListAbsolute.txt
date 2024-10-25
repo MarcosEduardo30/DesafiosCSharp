@@ -1,0 +1,15 @@
+D:\Projects\C#\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.exe
+D:\Projects\C#\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.deps.json
+D:\Projects\C#\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.runtimeconfig.json
+D:\Projects\C#\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.dll
+D:\Projects\C#\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.pdb
+D:\Projects\C#\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.AssemblyInfoInputs.cache
+D:\Projects\C#\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.AssemblyInfo.cs
+D:\Projects\C#\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.csproj.CoreCompileInputs.cache
+D:\Projects\C#\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.sourcelink.json
+D:\Projects\C#\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.dll
+D:\Projects\C#\DesafiosCSharp\Vertice\obj\Debug\net8.0\refint\Vertice.dll
+D:\Projects\C#\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.pdb
+D:\Projects\C#\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.genruntimeconfig.cache
+D:\Projects\C#\DesafiosCSharp\Vertice\obj\Debug\net8.0\ref\Vertice.dll
