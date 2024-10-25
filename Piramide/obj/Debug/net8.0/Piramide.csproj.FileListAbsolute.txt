@@ -1,0 +1,14 @@
+D:\Projects\C#\DesafiosCSharp\Piramide\bin\Debug\net8.0\Piramide.exe
+D:\Projects\C#\DesafiosCSharp\Piramide\bin\Debug\net8.0\Piramide.deps.json
+D:\Projects\C#\DesafiosCSharp\Piramide\bin\Debug\net8.0\Piramide.runtimeconfig.json
+D:\Projects\C#\DesafiosCSharp\Piramide\bin\Debug\net8.0\Piramide.dll
+D:\Projects\C#\DesafiosCSharp\Piramide\bin\Debug\net8.0\Piramide.pdb
+D:\Projects\C#\DesafiosCSharp\Piramide\obj\Debug\net8.0\Piramide.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\DesafiosCSharp\Piramide\obj\Debug\net8.0\Piramide.AssemblyInfoInputs.cache
+D:\Projects\C#\DesafiosCSharp\Piramide\obj\Debug\net8.0\Piramide.AssemblyInfo.cs
+D:\Projects\C#\DesafiosCSharp\Piramide\obj\Debug\net8.0\Piramide.csproj.CoreCompileInputs.cache
+D:\Projects\C#\DesafiosCSharp\Piramide\obj\Debug\net8.0\Piramide.dll
+D:\Projects\C#\DesafiosCSharp\Piramide\obj\Debug\net8.0\refint\Piramide.dll
+D:\Projects\C#\DesafiosCSharp\Piramide\obj\Debug\net8.0\Piramide.pdb
+D:\Projects\C#\DesafiosCSharp\Piramide\obj\Debug\net8.0\Piramide.genruntimeconfig.cache
+D:\Projects\C#\DesafiosCSharp\Piramide\obj\Debug\net8.0\ref\Piramide.dll

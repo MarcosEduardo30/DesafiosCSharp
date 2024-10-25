@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Piramide piramide = new Piramide(6);
+            piramide.Desenha();
         }
     }
 }
