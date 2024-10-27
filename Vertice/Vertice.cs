@@ -20,12 +20,12 @@ namespace Vertice
             this.x = x; this.y = y;
         }
 
-        public void Distancia(Vertice vert)
+        public double Distancia(Vertice vert)
         {
-            double DEx = Math.Sqrt(Math.Pow((this.x - vert.x), 2));
-            double DEy = Math.Sqrt(Math.Pow((this.y - vert.y), 2));
+            double DEx = Math.Pow((this.x - vert.x), 2);
+            double DEy = Math.Pow((this.y - vert.y), 2);
 
-            Console.WriteLine($"A distância euclidiana entre os dois vertices é de {DEx + DEy}");
+            return Math.Sqrt(DEx + DEy);
         }
 
         public void Move(double x, double y)

@@ -7,7 +7,7 @@
             Vertice vert1 = new Vertice(3, 3.5);
             Vertice vert2 = new Vertice(3, 4);
 
-            vert1.Distancia(vert2);
+            Console.WriteLine(vert1.Distancia(vert2));
 
             vert1.Move(3, 5);
             Console.WriteLine(vert1.isEqual(vert2));
