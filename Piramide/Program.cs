@@ -6,6 +6,7 @@
         {
             Piramide piramide = new Piramide(6);
             piramide.Desenha();
+            piramide.Equals(true);
         }
     }
 }
