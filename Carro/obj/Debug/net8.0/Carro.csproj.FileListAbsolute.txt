@@ -1,0 +1,15 @@
+D:\Projects\C#\DesafiosCSharp\Carro\bin\Debug\net8.0\Carro.exe
+D:\Projects\C#\DesafiosCSharp\Carro\bin\Debug\net8.0\Carro.deps.json
+D:\Projects\C#\DesafiosCSharp\Carro\bin\Debug\net8.0\Carro.runtimeconfig.json
+D:\Projects\C#\DesafiosCSharp\Carro\bin\Debug\net8.0\Carro.dll
+D:\Projects\C#\DesafiosCSharp\Carro\bin\Debug\net8.0\Carro.pdb
+D:\Projects\C#\DesafiosCSharp\Carro\obj\Debug\net8.0\Carro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\DesafiosCSharp\Carro\obj\Debug\net8.0\Carro.AssemblyInfoInputs.cache
+D:\Projects\C#\DesafiosCSharp\Carro\obj\Debug\net8.0\Carro.AssemblyInfo.cs
+D:\Projects\C#\DesafiosCSharp\Carro\obj\Debug\net8.0\Carro.csproj.CoreCompileInputs.cache
+D:\Projects\C#\DesafiosCSharp\Carro\obj\Debug\net8.0\Carro.sourcelink.json
+D:\Projects\C#\DesafiosCSharp\Carro\obj\Debug\net8.0\Carro.dll
+D:\Projects\C#\DesafiosCSharp\Carro\obj\Debug\net8.0\refint\Carro.dll
+D:\Projects\C#\DesafiosCSharp\Carro\obj\Debug\net8.0\Carro.pdb
+D:\Projects\C#\DesafiosCSharp\Carro\obj\Debug\net8.0\Carro.genruntimeconfig.cache
+D:\Projects\C#\DesafiosCSharp\Carro\obj\Debug\net8.0\ref\Carro.dll

@@ -8,8 +8,8 @@ namespace CertidaoNascimento
 {
     public class Pessoa
     {
-        string nome;
-        readonly CertidaoNascimento? certidao;
+        public string nome;
+        public readonly CertidaoNascimento? certidao;
 
         public Pessoa(string nome, CertidaoNascimento certidao = null)
         {

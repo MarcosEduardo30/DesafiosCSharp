@@ -16,11 +16,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangulo", "Triangulo\Tria
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poligono", "Poligono\Poligono.csproj", "{4BEA111D-0331-4ACE-9904-E510AAAF18E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intervalo", "Intervalo\Intervalo.csproj", "{AFC7F899-FAA3-4616-8EE7-CC8638AD4DEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intervalo", "Intervalo\Intervalo.csproj", "{AFC7F899-FAA3-4616-8EE7-CC8638AD4DEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaIntervalo", "ListaIntervalo\ListaIntervalo.csproj", "{FD50E69F-03FF-492C-AD4A-36EE3C17548E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListaIntervalo", "ListaIntervalo\ListaIntervalo.csproj", "{FD50E69F-03FF-492C-AD4A-36EE3C17548E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armstrong", "Armstrong\Armstrong.csproj", "{FCBF06D6-1D36-446C-ACCC-BF99FC72125D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Armstrong", "Armstrong\Armstrong.csproj", "{FCBF06D6-1D36-446C-ACCC-BF99FC72125D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertidaoNascimento", "CertidaoNascimento\CertidaoNascimento.csproj", "{6D10E824-84EE-44AB-87F7-C1E2DBD24E72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carro", "Carro\Carro.csproj", "{5B29024D-0862-448D-9D61-44121E4F0C4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +60,14 @@ Global
 		{FCBF06D6-1D36-446C-ACCC-BF99FC72125D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCBF06D6-1D36-446C-ACCC-BF99FC72125D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCBF06D6-1D36-446C-ACCC-BF99FC72125D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D10E824-84EE-44AB-87F7-C1E2DBD24E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D10E824-84EE-44AB-87F7-C1E2DBD24E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D10E824-84EE-44AB-87F7-C1E2DBD24E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D10E824-84EE-44AB-87F7-C1E2DBD24E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B29024D-0862-448D-9D61-44121E4F0C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B29024D-0862-448D-9D61-44121E4F0C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B29024D-0862-448D-9D61-44121E4F0C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B29024D-0862-448D-9D61-44121E4F0C4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

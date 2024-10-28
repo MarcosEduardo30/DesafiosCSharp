@@ -8,8 +8,8 @@ namespace CertidaoNascimento
 {
     public class CertidaoNascimento
     {
-        readonly Pessoa pessoa;
-        DateTime dataEmissao;
+        public readonly Pessoa pessoa;
+        public DateTime dataEmissao;
 
         public CertidaoNascimento(Pessoa pessoa, DateTime dataEmissao)
         {
