@@ -17,6 +17,8 @@
         {
             if (this.inicio > inter.inicio  && this.inicio < inter.fim ) return true;
             else if (this.fim > inter.inicio && this.fim < inter.fim) return true;
+            else if (this.inicio < inter.inicio && this.fim > inter.inicio) return true;
+            else if (this.inicio < inter.fim && this.fim > inter.fim) return true;
             else return false;
         }
 

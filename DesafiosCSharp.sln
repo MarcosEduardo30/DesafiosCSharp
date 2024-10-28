@@ -18,6 +18,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poligono", "Poligono\Poligo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intervalo", "Intervalo\Intervalo.csproj", "{AFC7F899-FAA3-4616-8EE7-CC8638AD4DEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaIntervalo", "ListaIntervalo\ListaIntervalo.csproj", "{FD50E69F-03FF-492C-AD4A-36EE3C17548E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{AFC7F899-FAA3-4616-8EE7-CC8638AD4DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFC7F899-FAA3-4616-8EE7-CC8638AD4DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFC7F899-FAA3-4616-8EE7-CC8638AD4DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD50E69F-03FF-492C-AD4A-36EE3C17548E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD50E69F-03FF-492C-AD4A-36EE3C17548E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD50E69F-03FF-492C-AD4A-36EE3C17548E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD50E69F-03FF-492C-AD4A-36EE3C17548E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
