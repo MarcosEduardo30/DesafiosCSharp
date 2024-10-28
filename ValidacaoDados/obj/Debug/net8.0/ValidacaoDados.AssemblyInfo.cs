@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ListaIntervalo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ValidacaoDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa0725fa695b1c79cae3adf292710e55fa67c80d")]
-[assembly: System.Reflection.AssemblyProductAttribute("ListaIntervalo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ListaIntervalo")]
+[assembly: System.Reflection.AssemblyProductAttribute("ValidacaoDados")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ValidacaoDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

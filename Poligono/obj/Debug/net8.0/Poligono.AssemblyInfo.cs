@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Poligono")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ed00eb1b2a2e1effb2f7b8e84b66764a8aefcaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa0725fa695b1c79cae3adf292710e55fa67c80d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Poligono")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Poligono")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
