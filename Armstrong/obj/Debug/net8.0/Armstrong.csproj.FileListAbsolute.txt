@@ -1,0 +1,15 @@
+D:\Projects\C#\DesafiosCSharp\Armstrong\bin\Debug\net8.0\Armstrong.exe
+D:\Projects\C#\DesafiosCSharp\Armstrong\bin\Debug\net8.0\Armstrong.deps.json
+D:\Projects\C#\DesafiosCSharp\Armstrong\bin\Debug\net8.0\Armstrong.runtimeconfig.json
+D:\Projects\C#\DesafiosCSharp\Armstrong\bin\Debug\net8.0\Armstrong.dll
+D:\Projects\C#\DesafiosCSharp\Armstrong\bin\Debug\net8.0\Armstrong.pdb
+D:\Projects\C#\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.AssemblyInfoInputs.cache
+D:\Projects\C#\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.AssemblyInfo.cs
+D:\Projects\C#\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.csproj.CoreCompileInputs.cache
+D:\Projects\C#\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.sourcelink.json
+D:\Projects\C#\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.dll
+D:\Projects\C#\DesafiosCSharp\Armstrong\obj\Debug\net8.0\refint\Armstrong.dll
+D:\Projects\C#\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.pdb
+D:\Projects\C#\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.genruntimeconfig.cache
+D:\Projects\C#\DesafiosCSharp\Armstrong\obj\Debug\net8.0\ref\Armstrong.dll
