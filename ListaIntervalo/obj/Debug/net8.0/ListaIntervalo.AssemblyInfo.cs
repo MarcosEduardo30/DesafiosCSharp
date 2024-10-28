@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListaIntervalo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f54e88c4706024740772fae4d737ad999852306d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c5be3002380f8ba7c6171de99ec8eb670994d08")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListaIntervalo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListaIntervalo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
