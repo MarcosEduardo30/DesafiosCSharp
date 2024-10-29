@@ -44,7 +44,7 @@
             while (true)
             {
                 Console.Write("Digite o seu estado civil: ");
-                cliente.EstadoCivil = Char.Parse(Console.ReadLine().Trim());
+                cliente.EstadoCivil = Char.Parse(Console.ReadLine().Trim().ToUpper());
                 if (cliente.EstadoCivil.isEstadoCivilValid()) break;
                 else Console.WriteLine("Digite um estado civil válido!");
             }

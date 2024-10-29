@@ -7,7 +7,6 @@
         public Piramide( int N)
         {
             if (N < 1) throw new ArgumentException("Valor de N deve ser maior do que 1");
-
             this.N = N;
 
         }

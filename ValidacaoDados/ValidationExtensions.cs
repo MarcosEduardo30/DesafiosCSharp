@@ -31,13 +31,14 @@
         {
             int somaDigitos = 0;
             int valMultiplicacao = posicaoDigito;
-            for (int i = 0; i < posicaoDigito; i++) {
-                somaDigitos += Convert.ToInt32(CPF[i]) * valMultiplicacao;
+            for (int i = 0; i < posicaoDigito - 1; i++) {
+                somaDigitos += int.Parse(CPF[i].ToString()) * valMultiplicacao;
                 valMultiplicacao--;
             }
-            char digito = somaDigitos % 10 == 0 || somaDigitos % 10 == 1 ? '0' : '1';
+            int resto = somaDigitos % 11;
+            string digito = resto == 0 || resto == 1 ? "0" : (11 - resto).ToString();
 
-            if (CPF[posicaoDigito - 1] == digito) return true; 
+            if (CPF[posicaoDigito - 1].ToString() == digito) return true; 
             else return false;
 
         }

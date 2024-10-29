@@ -16,7 +16,7 @@
         {
             foreach (Intervalo intervalo in this.lstIntervalos)
             {
-                if (inter.TemIntersecao(intervalo)) return; ;
+                if (inter.TemIntersecao(intervalo)) return;
             }
 
            this.lstIntervalos.Add(inter);
